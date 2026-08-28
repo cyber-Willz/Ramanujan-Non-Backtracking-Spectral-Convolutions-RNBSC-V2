@@ -1,4 +1,4 @@
-# NBSC — Non-Backtracking Spectral Convolution
+# RNBSC — Ramanujan-Non-Backtracking Spectral Convolution
 
 A graph convolution built from the poles of the **Ihara zeta function**
 (equivalently, the eigenvalues of the **Hashimoto / non-backtracking
